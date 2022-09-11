@@ -10,7 +10,7 @@ I’ve experience in developing web apps, mobile apps, backends, firebase, datab
 
 ### Freelancer
 
-Remote, **Full-Stack Developer
+Remote, **Full-Stack Developer**
 
 21, Jan, 2021 - Present
 
@@ -21,7 +21,7 @@ Remote, **Full-Stack Developer
 
 ### Coinswitch [[https://coinswitch.co/](https://coinswitch.co/)]
 
-Remote, Mobile App Developer
+Remote, **Mobile App Developer**
 
 March, 2020 - Jan, 2021
 
@@ -34,7 +34,7 @@ March, 2020 - Jan, 2021
 
 ### **Cogoport [**[https://www.cogoport.com/](https://www.cogoport.com/)**]**
 
-Mumbai, India Software Developer, 
+Mumbai, India, Software Developer, 
 
 March, 2019 - March, 2020
 
